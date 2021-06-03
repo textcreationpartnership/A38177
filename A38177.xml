@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The votes of the Lords and Commons upon the propositions made by divers worthy and well affected persons for the speedy and effectual reducing of the kingdom of Ireland in MDCXLI : with His Majesty's answer and assent and the names of the subscribers in pursuance with the said propositions.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38177</idno><idno type="EEBO-CITATION">9811878</idno>
+  <idno type="VID">44162</idno>
+  <idno type="EEBO-PROQUEST">2248503547</idno>
+  
+            <idno type="STC">Wing E2457</idno>
+            <idno type="STC">ESTC R27340</idno>
+            <idno type="OCLC">09811878</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1356:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The votes of the Lords and Commons upon the propositions made by divers worthy and well affected persons for the speedy and effectual reducing of the kingdom of Ireland in MDCXLI : with His Majesty's answer and assent and the names of the subscribers in pursuance with the said propositions.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land tenure --  Northern Ireland --  History.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44162:1"/>
+            <head>The Votes of the LORDS and COMMONS, Ʋpon the Propositions made by divers Worthy and Well Affected Persons, for the speedy and effectual Reducing of the Kingdom of IRELAND in M.DC.XLI. With His Majesty's Answer and Assent, and the Names of the Subscribers in pursuance with the said Propositions.</head>
+            <div type="resolutions">
+               <p>THe Lords and Commons taking into their serious Consideration, as well the ne<g ref="char:EOLhyphen"/>cessity of a speedy reducing of the Rebels in <hi>Ireland</hi> to their due Obedience; as also the great Sums of Money that the Commons of this Realm have of late paid for the publick and necessary Affairs of the Kingdom, whereof the Lords and Commons are very sensible, and desirous to embrace all good and honourable ways tending to his Majesties Greatness and Profit, the setling of the Realm, and the ease of his Majesty's Subjects of <hi>England;</hi> And whereas divers worthy and well affected Persons perceiving that many Millions of Acres of the Rebels Lands of that Kingdom, which go under the name of Profitable Lands, will be Confiscate and to be disposed of; and that in case two Millions and an half of those Acres to be equally taken out of the Four Provinces of that Kingdom, may be alotted for the Satisfaction of those Persons as shall disburse any Sums of Money for the reducing of the Rebels there, would effectually accomplish the same, have made these Propositions ensuing.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="list_of_propositions">
+                           <p n="1">1st. That Two Millions and an half of those Acres be assumed, alotted, and divided amongst them, after this proportion, <hi>viz.</hi>
+                              <table>
+                                 <row>
+                                    <cell rows="4">For each Adventure of</cell>
+                                    <cell>200 l.</cell>
+                                    <cell>1000 Acres in <hi>Ʋlster</hi>
+                                    </cell>
+                                 </row>
+                                 <row>
+                                    <cell>300 l.</cell>
+                                    <cell>1000 Acres in <hi>Connaght.</hi>
+                                    </cell>
+                                 </row>
+                                 <row>
+                                    <cell>450 l.</cell>
+                                    <cell>1000 Acres in <hi>Munster.</hi>
+                                    </cell>
+                                 </row>
+                                 <row>
+                                    <cell>600 l.</cell>
+                                    <cell>1000 Acres in <hi>Leinster.</hi>
+                                    </cell>
+                                 </row>
+                              </table>
+                           </p>
+                           <p>All according to the <hi>English</hi> Measure, and consisting of Meadow arable and profitable Pasture, the Bogs, Woods, and barren Mountains being cast in over and above. These Two Millions and an half of Acres to be holden in free and common Soccage of the King, as of his Castle of <hi>Dublin.</hi>
+                           </p>
+                           <p n="2">2. That out of those Two Millions and a half of Acres, a constant rent shall be reserved to the Crown of <hi>England</hi> after this proportion.
+<table>
+                                 <row>
+                                    <cell rows="4">Out of each Acre thereof in</cell>
+                                    <cell>Ulster</cell>
+                                    <cell>1 <hi>d.</hi>
+                                    </cell>
+                                 </row>
+                                 <row>
+                                    <cell>Connaght</cell>
+                                    <cell>1 <hi>d. ob.</hi>
+                                    </cell>
+                                 </row>
+                                 <row>
+                                    <cell>Munster</cell>
+                                    <cell>2 <hi>d. q.</hi>
+                                    </cell>
+                                 </row>
+                                 <row>
+                                    <cell>Leinster</cell>
+                                    <cell>3 <hi>d.</hi>
+                                    </cell>
+                                 </row>
+                              </table>
+                           </p>
+                           <p>Whereby his Majesties Revenue out of those Lands will be much improved, besides the Advantages that he will have by the coming to his hands of all other the Lands of the Rebels and their personal Estates, without any Charge unto his Majesty.</p>
+                           <p n="3">3. That for the Erecting of Mannors, Settling of Waste and Commons, Maintaining of Preach<g ref="char:EOLhyphen"/>ing Ministers, creating of Corporations, and Regulating the several Plantations, one or more Commissions be hereafter granted by Authority of Parliament.</p>
+                           <p n="4">4. That Moneys for this great Occasion may be the more speedily advanced, all the Ʋndertakers in the City of <hi>London,</hi> and within Twenty Miles distant thereof, shall under-write their several Sums before the 20th day of <hi>March</hi> 1641, and all within 60 Miles of <hi>London,</hi> before the First day of <hi>April</hi> 1642, and the rest of the Kingdom before the First day of <hi>May</hi> 1642.</p>
+                           <p n="5">5. That the several Sums of Money to be under written, shall be paid in at four Payments, <hi>viz.</hi> one fourth part within 10 days after such under-writing, and the other three parts at three Months, three Months and three Mouths, all to be paid into the Chamber of <hi>London.</hi>
+                           </p>
+                           <p n="6">6. That for the better securing of the said several Sums accordingly, every one that doth so under<g ref="char:EOLhyphen"/>write, shall at the time of his Subscription pay down the twentieth part of the total Sum that shall be by him than under-written.</p>
+                           <p>And in case that the residue of his first fourth part be not paid in to such person or persons as shall be appointed to receive the same within the ten days before limited, then such persons shall not only Forfeit the twentieth part of the Sum Total formerly deposited, but so much more of his first fourth Payment to be added <gap reason="illegible" resp="#oxf" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>hereunto, as shall make up the one Moyety of the said first Payment; and if the said person shall fail in any other of the Three Payments, he shall then Forfeit his entire first fourth part and all the benefit of his Subscription; which Forfeiture shall accrue to the common be<g ref="char:EOLhyphen"/>nefit of the rest of the Ʋndertakers.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Lords and Commons upon due and mature deliberation of these Propositions, have approv'd of them, and given their consent unto the same, and will become humble Petiti<g ref="char:EOLhyphen"/>oners to his Majesty for his Royal Approbation thereof; and that hereafter he will be plea<g ref="char:EOLhyphen"/>sed, upon the humble Suit of both Houses of Parliament, to give his Royal Assent to such Bills as they shall tender unto him for the settling of those Propositions, and all things ne<g ref="char:EOLhyphen"/>cessarily conducing thereunto.</p>
+               <p>By Vertue of an Order of the Honourable House of Commons made on <hi>Monday</hi> the 7th of this present Month of <hi>February</hi> 1641, we the Committee appointed to receive the Mo<g ref="char:EOLhyphen"/>neys
+<pb facs="tcp:44162:2"/> given by (the Members of the House of Commons for Relief of the poor distressed people that are come out of <hi>Ireland</hi>) are to require you to send unto us, or any of us a Cer<g ref="char:EOLhyphen"/>tificate what Sums of Money are Collected within your Parish for the Relief of the poor distressed people of <hi>Ireland,</hi> and to require you to bring in such Sums of Money as you have received to that Committee, who are Authoriz'd by the House to receive the same.</p>
+               <closer>
+                  <dateline>Dated at <hi>Westminster,</hi>
+                     <date>the 15th of <hi>Febr.</hi> 1641.</date>
+                  </dateline>
+               </closer>
+               <closer/>
+               <postscript>
+                  <p>The Committee appointed by the House for the said Collections, are
+<list>
+                        <item>Sir <hi>Edward Ayscough</hi> Kt.</item>
+                        <item>
+                           <list>
+                              <item>
+                                 <hi>Francis Rowse</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry Martin</hi>
+                              </item>
+                              <item>
+                                 <hi>William Wheeler</hi>
+                              </item>
+                           </list> Esquires.</item>
+                     </list>
+                  </p>
+               </postscript>
+            </div>
+            <div type="answer">
+               <head>To the Minister and Churchwardens of the Parish of —</head>
+               <head>His Majesties Gracious Answer and Assent declar'd unto both Houses of Par<g ref="char:EOLhyphen"/>liament, <hi>Febr. xxiv. M.dc.xli.</hi> was as followeth.</head>
+               <p>HIS Majesty being very glad to receive any Proposition that may repair the Calamity of the distressed Kingdom of <hi>Ireland,</hi> especially when it may be without Burthen or Impe<g ref="char:EOLhyphen"/>sition, and for the Ease of His good Subjects of this Kingdom, Hath Graciously con<g ref="char:EOLhyphen"/>sider'd the Overture made by both Houses of Parliament to that Purpose, and returns this Answer:</p>
+               <p>That as He has offer'd, and is still ready to venture His own Royal Person for the Recovery of that Kingdom, if His Parliament shall advise him thereunto; so He will not deny to contribute any other Assistance He can to that Service, by parting with any Profi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Advantage of His own there: And therefore (relying upon the Wisdom of His Parliament) doth consent to every Proposition now made to Him, without taking Time to examine whether this Course may not retard the Redu<g ref="char:EOLhyphen"/>cing of that Kingdom, by exasperating the Rebels, and rendring them desperate of being received into Grace, if they shall return to their Obedience.</p>
+               <p>And His Majesty will be ready to give His Royal Assent to all such Bills as shall be tendred unto Him by His Parliament, for the Confirmation of every Particular of this Proposition.</p>
+            </div>
+            <div type="list_of_subscribers">
+               <head>The Names of such Members of the Commons House of Parliament, as have already subscri<g ref="char:EOLhyphen"/>bed, in pursuance of the Act of Parliament, for the speedy reducing of the Rebels, and the future Peace and Safety of this Kingdom: Together with the Sums they have severally underwritten, <hi>viz.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">
+                           <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Walter Long</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Robert Pye</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Sam. Vassal</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Sam. Rowles</hi> of <hi>Devon.</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William</hi> Lord <hi>Munson</hi>
+                        </cell>
+                        <cell>2400</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John Harrison</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>William Brereton</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Edward Ayscough</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Mr. J.</hi> and Mr. <hi>E. Ash</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Gilbert Pickering</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell rows="2">Sir <hi>John Clotworthy</hi> in money, and for his Entertainment as Colonel in the <hi>Irish</hi> War</cell>
+                        <cell>500</cell>
+                     </row>
+                     <row>
+                        <cell>500</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Henry Martin</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Arthur Goodwin</hi>
+                        </cell>
+                        <cell>1800</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Arthur Haslerigge</hi> of <hi>Leicestershire</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Robert Reynold</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Robert Parkhurst</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Thoma<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Dacres</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John P<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ts</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Arthur Ingram</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Dr. <hi>Thomas Eden</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Oliver Cromwell</hi>
+                        </cell>
+                        <cell>500</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Nath. Fines</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Pym</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Walter Earle</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Cornelius Holland</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John Northcot</hi>
+                        </cell>
+                        <cell>450</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Roger Matthew</hi>
+                        </cell>
+                        <cell>300</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Nath. Barnardiston</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>William Asham</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Martin Lomley,</hi> for <hi>Martin Lomley</hi> Esq; his Son</cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Tho. Hoyl</hi> of <hi>York</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Anth. Beddingfield,</hi> and Mr. <hi>W. Cage</hi>
+                        </cell>
+                        <cell>700</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>W. Allenson</hi> of <hi>York</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Will. Heveningham</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Herbert Morley</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>William Morley</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John Culpeper</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Edward Partrick</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Richard Shuttelworth</hi> Esq;</cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John More,</hi> and Mr. <hi>Will. Thomas</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Lisle</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Bl<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ckston</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Gilbert Gerrard</hi>
+                        </cell>
+                        <cell>2000</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Bulstrode Whitlock</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Edward Momford,</hi> and Mr. <hi>R. Harmon</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Trenchard</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Gurdon</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Barker</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>William Harrison</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>J. Wild</hi> Serjeant at Law, and Mr. <hi>Thomas Lane.</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>N. Hallowes</hi> of <hi>Darby,</hi> for himself &amp; others</cell>
+                        <cell>1400</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Franklin</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Buller</hi> of the County of <hi>Cornwal</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Henry Mildmay</hi>
+                        </cell>
+                        <cell>6<gap reason="illegible" resp="#oxf" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Oliver St. John</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John Wray</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Thomas Barrington</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Rob. Goodwin,</hi> and Mr. <hi>John Goodwin</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Denzil Hollis</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Crew</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John Peyton</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>William Plasters</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>William Strickland</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Thomas Savine</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Alexander</hi> and <hi>Squire Bence</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>J. Rowles</hi> of <hi>Devon</hi>
+                        </cell>
+                        <cell>450</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>John Hamden</hi>
+                        </cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>William Jesson</hi>
+                        </cell>
+                        <cell>300</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Edward Raynton</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thom.</hi> Lord <hi>Wenman,</hi> and Mr. <hi>R. Winwood</hi>
+                        </cell>
+                        <cell>1200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>William Drake</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>William Spurstow</hi>
+                        </cell>
+                        <cell>600</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>J. Evelyn</hi> of <hi>God<g ref="char:EOLhyphen"/>store,</hi> in the County of <hi>Surrey,</hi> for him<g ref="char:EOLhyphen"/>self and others</cell>
+                        <cell>1500</cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Giles Corbet</hi>
+                        </cell>
+                        <cell>200</cell>
+                     </row>
+                  </table>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Licens'd</p>
+                           <closer>
+                              <dateline>
+                                 <date>May 1. 1689.</date>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. M.</hi> near <hi>Fleet-bridge.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
